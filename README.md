@@ -13,4 +13,4 @@
 최종적인 전처리와 인사이트
 
 - aT_베이스라인.ipynb  
-Keras를 사용하여 Transformer 모델을 구현
+Keras를 사용하여 Transformer 모델을 구현 - 실패
