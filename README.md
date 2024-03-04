@@ -14,6 +14,3 @@
 
 - aT_베이스라인.ipynb  
 Keras를 사용하여 Transformer 모델을 구현 - 실패
-
-- DNA_DSday포스터발표.pdf  
-RandomForest를 이용
