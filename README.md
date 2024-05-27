@@ -1,4 +1,4 @@
-# PPOA_-Competition
+# PPOA_Competition
 
 **2022 농넷 농산물 가격 변동률 예측 AI 경진대회**
 
